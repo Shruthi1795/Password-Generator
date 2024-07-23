@@ -18,4 +18,4 @@ print(password)
 j=""
 for i in password:
   j +=i
-print(j)3
+print(f"The password is {j}")
